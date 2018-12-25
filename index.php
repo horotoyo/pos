@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Category (edit)</title>
+	<title>Category</title>
 	<link rel="icon" type="image/png" href="images/favicon.png">
 	<link rel="stylesheet" type="text/css" href="style.css?v=1.0">
 	<link rel="stylesheet" type="text/css" href="style.css?v=2.8">
